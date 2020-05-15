@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LatihanPolymorphism2", "LatihanPolymorphism2.csproj", "{3A1A0D49-BF0A-4526-92DF-24B49CBECF14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A1A0D49-BF0A-4526-92DF-24B49CBECF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1A0D49-BF0A-4526-92DF-24B49CBECF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1A0D49-BF0A-4526-92DF-24B49CBECF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1A0D49-BF0A-4526-92DF-24B49CBECF14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B32BC05D-8413-4A1B-BE9A-88DE73759B5D}
+	EndGlobalSection
+EndGlobal

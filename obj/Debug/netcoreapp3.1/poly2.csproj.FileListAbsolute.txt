@@ -1,0 +1,13 @@
+D:\GH\tugas77\bin\Debug\netcoreapp3.1\poly2.exe
+D:\GH\tugas77\bin\Debug\netcoreapp3.1\poly2.deps.json
+D:\GH\tugas77\bin\Debug\netcoreapp3.1\poly2.runtimeconfig.json
+D:\GH\tugas77\bin\Debug\netcoreapp3.1\poly2.runtimeconfig.dev.json
+D:\GH\tugas77\bin\Debug\netcoreapp3.1\poly2.dll
+D:\GH\tugas77\bin\Debug\netcoreapp3.1\poly2.pdb
+D:\GH\tugas77\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GH\tugas77\obj\Debug\netcoreapp3.1\poly2.csprojAssemblyReference.cache
+D:\GH\tugas77\obj\Debug\netcoreapp3.1\poly2.AssemblyInfoInputs.cache
+D:\GH\tugas77\obj\Debug\netcoreapp3.1\poly2.AssemblyInfo.cs
+D:\GH\tugas77\obj\Debug\netcoreapp3.1\poly2.csproj.CopyComplete
+D:\GH\tugas77\obj\Debug\netcoreapp3.1\poly2.dll
+D:\GH\tugas77\obj\Debug\netcoreapp3.1\poly2.pdb
